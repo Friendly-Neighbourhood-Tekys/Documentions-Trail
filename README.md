@@ -3,7 +3,7 @@
 
 ## Project ON HOLD
 <p align="center">
-<img src="https://i.ibb.co/qBLhSLb/Drishti.png">
+
     </p>
 Drishti is a simple mobile application created as a project for YIP KDISC and Google Devs Solution Challenge.
 This app aims to make reporting and spreading the news of accidents and dangers easier and effective. 
