@@ -1,62 +1,41 @@
-# trialreadme
 # Drishti
 
-## Project ON HOLD
-<p align="center">
-
-    </p>
-Drishti is a simple mobile application created as a project for YIP KDISC and Google Devs Solution Challenge.
+Drishti is a software created as a project for Define hack 2022.
 This app aims to make reporting and spreading the news of accidents and dangers easier and effective. 
-
+## All repo links
+- [Web Front-End](https://github.com/Liya-Susan/Drishti/)
+- [Android](https://github.com/fal3n-4ngel/drishti)
+- [Web Back-End](https://github.com/Liya-Susan/Drishti_backend)
 ## The Problem
-  One of main reason of accidents and deaths caused by snapped power lines and broken pipelines is the lack of a way to effectively inform the locality about this incident, many walk into these traps withot knowing.
+   Accidents due to stepping on snapped power cables etc and getting common nowadays ,especially during the rainy days. Drishti offers a simple yet elegant way to solve this problem and much more.
+   
   
+
 ## The solution
-  Drishti offers a simple and easy platform to report and get alerts on events on our locality.It will also redirect the cases of snapped lines and cables to respective authorities.
+  Drishti offers a simple and easy platform to report and get alerts on incidents happening in our locality.It will also redirect the cases to respective authorities.
+  
+  - Drishti lets you report the incidents(like snapped powerlines or broken pipelines easily and effectively through our mobile application.
+  - The webservice allows the admins to knowabout these reports in real time and respond to it more efficiently.
+  - The app also notifies every Drishti user in your locality about Grade 2(midly or highly dangerous) or above reports.
+  - you can also now the statu of your reports through our portal.
 
-## Frameworks and Languages Used
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+[Prototype link(figma)](https://www.figma.com/proto/iY2avWglgTX1P9ePy54zIr/App?node-id=87%3A97&scaling=min-zoom&page-id=24%3A330&starting-point-node-id=99%3A137)
+  
+## Frameworks and Services Used
+[![](https://skillicons.dev/icons?i=flutter,androidstudio,bootstrap,figma,heroku,js,mongodb,react)](https://skillicons.dev)
 
-## IDE's and Services Used
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-## Still in Development
-- Front End v3...
-- Back End (still working on it)
-
-## Screenshots
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<p align="center">
-<img src="https://github.com/Friendly-Neighbourhood-Tekys/Drishti/blob/Front-End-v3/Screenshots/main.png">
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## Contributors
+
+```markdown   
+
+# Friendly Neighborhood Tekys
+
+Abhishek Raman R     - Front End Developer    [ Android ]
+Aditya Krishnan      - Full Stack Developer   [ Android ]
+Christina Mathhews   - Front End Developer    [ Web]
+Ferwin Lopez         - UI/UX Designer         [Andriod/Web]
+Liya Susan Biju      - Full Stack developer   [Web]
+
+```
  
-<!-- readme: fal3n-4ngel,collaborators,ice-weasel,contributors -start -->
-<table>
-<tr>
-    <td align="center">
-        <a href="https://github.com/fal3n-4ngel">
-            <img src="https://avatars.githubusercontent.com/u/79042374?v=4" width="100;" alt="fal3n-4ngel"/>
-            <br />
-            <sub><b>Adithya Krishnan</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/ice-weasel">
-            <img src="https://avatars.githubusercontent.com/u/93714446?v=4" width="100;" alt="ice-weasel"/>
-            <br />
-            <sub><b>Abhishek Raman</b></sub>
-        </a>
-    </td></tr>
-</table>
-<!-- readme: fal3n-4ngel,collaborators,ice-weasel,contributors -end -->
